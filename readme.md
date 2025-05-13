@@ -1,23 +1,3 @@
-# File List
-
-
-
-## Paper（PDF/Word）
-
-`Vision Transformer 和 ResNet 在 CIFAT10 数据集上的图像分类任务的研究.pdf`  
-
-`Vision Transformer 和 ResNet 在 CIFAT10 数据集上的图像分类任务的研究.docx` 
-
----
-
-## 查重报告
-
-`Paperpass查重报告.pdf` 
-
-`PaperYY查重报告.pdf` 
-
----
-
 ## Codes
 
 |        程序        | 说明                                                         |
